@@ -1,0 +1,38 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502431530,
+    "hash": "",
+    "topadv": {},
+    "show_history": 0,
+    "cate_list": [
+        {
+            "title": "狗狗服饰",
+            "rigth_img": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+                "target": {
+                    "mode": "goods_list",
+                    "param": "cateid:4216"
+                },
+                "img_size": "138x30"
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_4223",
+                    "name": "时尚服装",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/7feeef10bab3d2e8df8a9149e0cb7c70.jpg@!300w-b"
+                },
+                {
+                    "id_param": "cateid_4291",
+                    "name": "精美配饰",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/1d55d100e176bd571e4b0fd85604a14d.jpg@!300w-b"
+                }
+            ]
+        }
+    ]
+}

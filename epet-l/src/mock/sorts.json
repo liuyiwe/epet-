@@ -1,0 +1,63 @@
+﻿{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502413102,
+    "hash": "",
+    "categorys": [
+        {
+            "cateid": 88888,
+            "name": "为您推荐"
+        },
+        {
+            "cateid": "721",
+            "name": "狗狗主粮"
+        },
+        {
+            "cateid": "3580",
+            "name": "狗狗零食"
+        },
+        {
+            "cateid": "936",
+            "name": "狗狗生活"
+        },
+        {
+            "cateid": "958",
+            "name": "狗狗玩具"
+        },
+        {
+            "cateid": "3627",
+            "name": "狗狗保健"
+        },
+        {
+            "cateid": "3620",
+            "name": "狗狗医疗"
+        },
+        {
+            "cateid": "4196",
+            "name": "狗狗牵引"
+        },
+        {
+            "cateid": "4198",
+            "name": "狗狗美容"
+        },
+        {
+            "cateid": "4204",
+            "name": "狗狗清洁"
+        },
+        {
+            "cateid": "4209",
+            "name": "狗狗香波"
+        },
+        {
+            "cateid": "4215",
+            "name": "狗狗周边"
+        },
+        {
+            "cateid": "4216",
+            "name": "狗狗服饰"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+vertical()
+  position absolute
+  left  0
+  top 0
+  right 0
+  bottom 0
+  margin auto
+
+ft-bg-image($url,$left,$top)
+  width 42px
+  height 40px
+  background: url($url) no-repeat
+  background-size: auto 400%
+  background-position: $left $top
+
+  r = 375rem/16
+//div垂直水平居中
+juzhong
+  position absolute
+  left 0
+  top 0
+  bottom 0
+  right 0
+  margin auto
+
+footer-run($color)
+  position relative
+  color $color
+  &:after
+    position absolute
+    bottom (4/r)
+    content ""
+    display block
+    width 100%
+    height (3/r)
+    background $color
+
+bg-image($url)
+  background-image url($url+"_sel.png")
+
+//2x图和3x图的自适应
+bg-image($url)
+  background-image url($url+"@2x.png")
+  @media(-webkit-min-device-pixel-ratio: 3) ,(min-device-pixel-ratio: 3)
+    background-image url($url+"@3x.png")
